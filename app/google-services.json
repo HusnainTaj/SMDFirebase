@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "62072562757",
+    "project_id": "smdfirebase-54ad5",
+    "storage_bucket": "smdfirebase-54ad5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62072562757:android:afcddebc28c7a1cf8c2f2c",
+        "android_client_info": {
+          "package_name": "com.smd.l226786.smdfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiPrmyA-3Rqaj61qEYlRE7Vt7JLj-f3dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
